@@ -8,6 +8,10 @@ As a learning experience, I recreated this data visualization from FiveThirtyEig
 
 ![](/img/dailyshow.png)
 
+Here was my recreation:
+
+![](/img/mydailyshowchart.png)
+
 I learned about:
 - Exploratory vs Explanatory visualzation
 - Pandas data wrangling and crosstabs
