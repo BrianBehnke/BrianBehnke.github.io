@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: My journey with data
+title: Brian Behnke
+subtitle: Chicago Data Scientist
 ---
 
-- Data Analysis Bachelor's Degree completed December, 2018
-- Taking a Data Science program through Lambda School, working on projects and learning Python libraries
 
-My name is Brian Behnke. I am a data scientist learning even more at Lambda School.
+- B.S. Data Analysis 2018
+- Lambda School Data Science Program 2018 (current)
+
+My name is Brian Behnke. I am a data scientist in Chicago with a passion for Sports Data.
 
 ### Interests
-I enjoy learning about new technologies and how they make life easier for people
-I am interested in working on sports data and analysis and would love working for a professional sports franchise
-I enjoy watching sports, especially the Minnesota Vikings, Skol!
+Learning about new technologies and how they make life easier for people 
+Working on sports data and analysis with Python 
+Creating data visualizations and dashboards 
+Watching sports, especially the Minnesota Vikings. Skol! 
+Pizza! 
 
