@@ -21,7 +21,7 @@ My analysis will be one way to show a player's value based on their ability to h
 
 This is the main source of the data I am going to be working with. It provides all the scoring and salary information that I need for each player in the NFL for the 2017 season.
 
-This is a full fledged statistical treasure trove for many sports. The site conpiles data for baseball, football (professional and college), basketball (professional and college), hockey, and soccer.They have several years worth of data available for all of these sports and allows for easy down of the data in csv format. If you are doing a sports analytical project this is the place to find it. 
+This is a full fledged statistical treasure trove for many sports. The site compiles data for baseball, football (professional and college), basketball (professional and college), hockey, and soccer. They have several years worth of data available for all of these sports and allows for easy download of the data in csv format. If you are doing a sports analytical project this is the place to find it. 
 
 In the NFL pages there is information on players and teams and their statistics, statistical rankings,  awards, salaries, draft information and well as about coaches, executives and officials. There is not much data you would want that you can't find at this site. 
 
@@ -51,7 +51,7 @@ This site breaks down the highest paid players by position. We can then see whic
 
 While this site does not provide a full list of salaries for all players, it only gives a snapshot of the highest paid player at each position. This can be useful to see which positions we would expect to have the highest salaries. 
 
-Also, knowing some information about the types of positions that are more likely to be involved in scoring points we see a higher values placed on those positions, Quarterback, Running Back, Wide Reveiver and Tight Ends. It will be interesting to see which positions are undervalued and overvalued based strictly on scoring as this chart shows that many non-scoring positions still have high salaries. 
+Also, knowing some information about the types of positions that are more likely to be involved in scoring points we see a higher values placed on those positions, quarterback, running back, wide reveiver and tight ends. It will be interesting to see which positions are undervalued and overvalued based strictly on scoring as this chart shows that many non-scoring positions still have high salaries. 
 
 
 Since the data I am looking at is related to a sports theme, I found that there is an abundance of it out there. Not only is the information easy to find, it is also readily available in handy downloadable csv format. 
