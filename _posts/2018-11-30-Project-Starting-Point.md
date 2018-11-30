@@ -1,7 +1,7 @@
 ---
 title: Project Starting Point
 subtitle: 
-image: img/nfl%20map.jpg
+image: img/nflmap.jpg
 --- 
 My portfolio project will be an analysis on NFL salaries and in-game scoring for the 2017 season. I will analyze who is earning their salary based on how much the player aids in the final score of the games.
 
