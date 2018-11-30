@@ -21,13 +21,14 @@ My analysis will be one way to show a player's value based on their ability to h
 
 This is the main source of the data I am going to be working with. It provides all the scoring and salary information that I need for each player in the NFL for the 2017 season.
 
-This is a full fledged statistical treasure trove for many sports. The site conpiles data for Baseball, Football(professional and college), Basketball(professional and college), hockey, and soccer.They have several years worth of data available for all of these sports and allows for easy down of the data in csv format. If you are doing a sports analytical project this IS the place to find it. 
+This is a full fledged statistical treasure trove for many sports. The site conpiles data for baseball, football (professional and college), basketball (professional and college), hockey, and soccer.They have several years worth of data available for all of these sports and allows for easy down of the data in csv format. If you are doing a sports analytical project this is the place to find it. 
 
-In the NFl pages there is information on players and teams and their statistics, statistical rankings,  awards, salaries, draft information and well as about coaches, executives and officials. There is not much data you would want that you can't find at this site. 
+In the NFL pages there is information on players and teams and their statistics, statistical rankings,  awards, salaries, draft information and well as about coaches, executives and officials. There is not much data you would want that you can't find at this site. 
 
 I am focused on looking at individual player's statistical performance and salary. This information is easily found on the website and it is provided in csv format for easy download. The site is easy to navigate with many pre-filled pages showing rankings on players and salaries. 
 
 I will be back to this page for future use, even if just for informational purposes and not for a project, as there is so much information it is a joy to look through. 
+
 ***
 
 [Spotrac contract](https://www.spotrac.com/nfl/contracts/)
@@ -39,9 +40,10 @@ This site shows salary related information for all players and teams. It provide
 This site is great for finding a lot of player salary information. While it does not provide scoring data we can find player's contract details, including bonuses and incentives as well as fines. 
 
 This site also provides a year by year breakdown of contracts and how much money is guaranteed and how much is not. It gives a information on when players will be eligible to renegotiate their contract and lengths of contracts. There is a lot to digest here, but much of this is beyond the scope of my current project. This will be worth coming back to for followup projects though. 
+
 ***
 
-[HIghest paid NFL players per position](https://howmuch.net/articles/highest-paid-NFL-player-at-every-position)
+[Highest paid NFL players per position](https://howmuch.net/articles/highest-paid-NFL-player-at-every-position)
 
 ![Image](https://i.imgur.com/yGyyC2j.jpg)
 
