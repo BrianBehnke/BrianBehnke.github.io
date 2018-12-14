@@ -43,9 +43,9 @@ I understand this type of analysis is far from complete, but it is fun to be abl
 
 ![Image](/img/scoring.png)
 
-The conclusion to all of this is that if a team wants to maximize value they should focus their efforts on signing the best kicker they can find, as they appear to have the best value of all positions. Then the focus should shift towards QBs. They tend to have the next highest likelihood of scoring a high amount of points. Some QBs also can be paid a low salary. 
+The conclusion to this is that if a team wants to maximize value they should focus their efforts on signing the best kicker they can find. Kickers appear to have the best value of all positions. Then the focus should shift towards QBs. They tend to have the next highest likelihood of scoring a high amount of points. Some QBs also can be paid a low salary. 
 
-Teams should avoid spending large sums on RBs and WRs, as neither position appears to have a prpensity to have a high scoring aptitude. This money would be better served on higher scoring positions, like K or QB, as stated above. This will ensure that the team is getting better value from their salary expenditures and allow them to spend more on non-scoring positions, like defensive players and offensive linemen.
+Teams should avoid spending large sums on RBs and WRs, as neither position appears to have a propensity to have a high scoring aptitude. This money would be better served on higher scoring positions, like K or QB, as stated above. This will ensure that the team is getting better value from their salary expenditures. It also will allow them to spend more on non-scoring positions, like defensive players and offensive linemen.
 
 I will continue to root for the Minnesota Vikings and still get frustrated with them when they do not win. With this analysis I can deduce that not all players are over paid. I still appreciate the effort that goes into playing football at this level. 
 
