@@ -47,7 +47,7 @@ The conclusion to all of this is that if a team wants to maximize value they sho
 
 Teams should avoid spending large sums on RBs and WRs, as neither position appears to have a prpensity to have a high scoring aptitude. This money would be better served on higher scoring positions, like K or QB, as stated above. This will ensure that the team is getting better value from their salary expenditures and allow them to spend more on non-scoring positions, like defensive players and offensive linemen.
 
-I will continue to root for the Minnesota Vikings and still get angry at them when they do not win. With this analysis I can deduce that not all players are over paid. I still appreciate the effort that goes into playing football at this level. 
+I will continue to root for the Minnesota Vikings and still get frustrated with them when they do not win. With this analysis I can deduce that not all players are over paid. I still appreciate the effort that goes into playing football at this level. 
 
 <span style="color:purple">**Skol Vikings!**</span>
 
