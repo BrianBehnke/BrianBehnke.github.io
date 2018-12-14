@@ -43,5 +43,5 @@ As a fan of the NFL, I understand this type of analysis is far from complete, bu
 
 ![Image](/img/scoring.png)
 
-I will continue to root for the Minnesota Vikings and still get angry at them when they do not win. With this analysis I can deduce that not all players are over paid. I still appreciate the effort that goes into playing football at this level. <span style="color:purple">Skol Vikings!</span>Skol Vikings!
+I will continue to root for the Minnesota Vikings and still get angry at them when they do not win. With this analysis I can deduce that not all players are over paid. I still appreciate the effort that goes into playing football at this level. <span style="color:purple">**Skol Vikings!**</span>
 
