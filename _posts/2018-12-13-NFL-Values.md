@@ -1,12 +1,12 @@
 ---
-title: Are NFL Players Overpaid?
+title: Are NFL Players Overvalued?
 subtitle: Finding out who is earning their paycheck
 image: /img/football.jpg
 ---
 
-As a long time suffering fan of the Minnesota Vikings of the National Football League, I am aware of how fickle fans can be. Being angry at players they feel are under-performing based on the salary they make. NFL players get paid to play the game at the high level that they do. But there are times when it feels that teams are over paying for players who are not affect the final outcome of games. At least not as much as fans feel that they should be. 
+As a long time suffering fan of the NFL Minnesota Vikings, I am aware of how fickle football fans can be. Given their high salaries fans can become angry at players who they feel are under-performing. NFL players get paid to play the game at a very high level. However, sometimes one might feel that players who do not affect the final outcome of games are being overpaid. 
 
-So I decided to put my new trained data skills to work and find the data that can prove that some players are not doing enough to make their fans happy. I found data on player salaries and scoring on the [Pro Football Reference](https://www.pro-football-reference.com) website. This allowed me to download this data and clean it up a bit to find out which players are the highest scoring and what their salaries are.  
+I decided to put my data skills to work and find data to prove that some players are, in fact, not doing enough to make their fans happy. I found data on player salaries and scoring on the [Pro Football Reference](https://www.pro-football-reference.com) website. Upon downloading this data and cleaning it up a bit, I was able to find out which players are the highest scoring and their salaries.  
 
 ![Image](/img/codesnip.PNG)
 
