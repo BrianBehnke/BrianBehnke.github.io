@@ -4,7 +4,7 @@ subtitle: Dipping toes into the world of Kaggle
 image: /img/well.jpg
 ---
 
-My first introduction to Kaggle Competitions was a provate project to attempt to predict the functionality of water wells in Tanzania. The original project is here(https://www.drivendata.org/competitions/7/) and is run by DrivenData. Our cohort at Lambda School is using this to reinforce our learning of predictive modeling that we have been studying over the past four weeks. 
+My first introduction to Kaggle Competitions was a provate project to attempt to predict the functionality of water wells in Tanzania. The original project is [here](https://www.drivendata.org/competitions/7/) and is run by DrivenData. Our cohort at Lambda School is using this to reinforce our learning of predictive modeling that we have been studying over the past four weeks. 
 
 I was excited and nervous to jump into this type of competition, knowing that our class has many brilliant people and not only would I be faced with completing the project to a satiisfactory level, but also to be scored directly against my peers. But it would allow me to see how well I have learned the material up to this point. 
 
